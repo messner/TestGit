@@ -2,7 +2,7 @@ test.txt 1.0
 Zeile 2
 
 Zeile 41
-Zeile 2
+Zeile 23
 Zeile 3
 Zeile 3
 Zeile 5
