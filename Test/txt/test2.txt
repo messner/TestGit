@@ -1,1 +1,2 @@
 Textfile test2.txt
+New line in test2.txt
